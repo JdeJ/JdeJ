@@ -7,8 +7,8 @@
 Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer. <br>
 👩‍💻<i>Happy Coding!</i>👨‍💻<br clear="right"/><br clear="left"/>
 </div>
-<hr>
 
+---
 
 ### TL;DR About me
 ```js
