@@ -1,56 +1,59 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!, I'm Jorge de Juana! </h2>
+	<h2> 🖖 Hi, I'm Jorge de Juana! 👋</h2>
+	<hr>
+</div>
+<div style="width: 100%; margin:0; padding: 0">
+	<div style="float:left; margin:0; padding: 0; box-sizing: border-box; width: 50%; text-align: center;">
+		<img src="./gifs/bigMario.gif" alt="Welcome Mario message!"/>
+	</div>
+	<div style="float:left; margin:0; padding: 0px 5px; box-sizing: border-box; width: 50%; text-align: center;" >
+		🎉Congratulations 🎉<br><br> Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer. <br>
+		Ask me anything <a href="https://github.com/JdeJ/JdeJ/issues/new"><b>here</b></a> or <a href="mailto:jorgedjuana@gmail.com"><b>email</b></a> me.<br><br>
+		👩‍💻<i>Happy Coding!</i>👨‍💻
+	</div>
+</div>
+<div style="clear: both;">
+<hr>
 </div>
 
-<div align="center" width="50">
+### TL;DR About me
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-
+```js
 export class Info {
-
-  name: string = 'Marton Lederer'
-  age: number = 17
-  nationality: string[] = ['Hungarian', 'Brazilian']
-  languages: Record<string, string>[] = [{ 'Spanish': 'B2' }, { 'English': 'C1' }, { 'Hungarian': 'native' }]
-  school: string = 'Alternatív Közgazdasági Gimnázium'
-  occupation: string = 'Web Developer and Designer, Student'
-  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
-  musical_interest_years: number[] = [70, 80, 90]
-
+	name: string = 'Jorge de Juana';
+	languages: Record<string, string>[] = [
+		{ Spanish: 'native' },
+		{ English: 'B1' },
+		{ Catalan: 'B1' }
+	];
+	occupation: string = 'Web Developer';
 }
 
 export class Programming {
-
-  languages: string[] = ['TypeScript', 'JavaScript', 'PHP']
-  stylesheets: string[] = ['CSS', 'SASS', 'SCSS', 'Stylus']
-  frameworks: string[] = ['Vue', 'Svelte', 'React']
-  runtimes: string[] = ['Deno', 'Node']
-  databases: string[] = ['MySQL', 'RethinkDB', 'Mongo']
-  learning: string[] = ['Rust', 'Go', 'Angular']
-  projects: string[] = ['nest.land', 'verto.exchange', 'Agrigo.farm/Cubilog', 'BetterAntispam', 'BloomAlts', 'Evolution X']
-
+	languages: string[] = ['TypeScript', 'JavaScript', 'Java'];
+	stylesheets: string[] = [
+		'CSS',
+		'SASS',
+		'SCSS',
+		'Styled Components',
+		'CSS Modules'
+	];
+	frameworks: string[] = ['React', 'Mobx', 'Express'];
+	runtimes: string[] = ['Node'];
+	databases: string[] = ['MongoDB'];
+	learning: string[] = ['React Native'];
+	projects: string[] = [
+		"Anjana's Fury",
+		'Ekilikua',
+		'UOP - Unpopular Opinion',
+		'WebStorageManager',
+		'useSocket React Hook'
+	];
 }
 
 export class Social {
-
-  website: string = 'https://marton.lederer.hu'
-  github: string = 'martonlederer'
-  instagram: string = '@martonlederer'
-  discord: string = 'Marton#6513'
-  spotify: string = 'https://spoti.fi/2ZEq3CN'
-
+	website: string = 'https://jdej.github.io/';
+	github: string = 'https://github.com/JdeJ';
+	linkedIn: string = 'https://www.linkedin.com/in/jorgedejuana';
 }
+```
