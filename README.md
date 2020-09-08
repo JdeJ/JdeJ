@@ -17,7 +17,7 @@
 
 [![Linkedin: jorgedejuana](https://img.shields.io/badge/-JdeJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedejuana/)](https://www.linkedin.com/in/jorgedejuana/)
 ![GitHub followers](https://img.shields.io/github/followers/JdeJ?label=Follow&style=social)
-[![](https://img.shields.io/badge/mail-jorgedjuana%40gmail.com-red)](mailto:jorgedjuana@gmail.com)
+[![](https://img.shields.io/badge/email-jorgedjuana%40gmail.com-red)](mailto:jorgedjuana@gmail.com)
 
 <br clear="left"/>
 
