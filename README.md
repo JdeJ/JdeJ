@@ -7,10 +7,10 @@
 <img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!" width="50%" align="left"/>
 <div align="right">
 	<div align="center">
-		<br><br>🎉<b>Congratulations</b> 🎉<br><br>
+		<br><br>🎉<b> Congratulations </b> 🎉<br><br>
 		Now that you have reached my Github profile, I hope you find something useful.<br>
 		Feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer. <br><br>
-		👩‍💻<i>Happy Coding!</i>👨‍💻<br><br>
+		👩‍💻<i> Happy Coding! </i>👨‍💻<br><br>
 		<br clear="right"/>
 	</div>
 </div>
