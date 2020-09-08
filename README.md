@@ -3,10 +3,9 @@
 </div>
 <img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!" width="50%" align="left"/>
 <div align="right">
-🎉 Congratulations 🎉 <br>
-Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer.<br>
-Ask me anything [**here**]("https://github.com/JdeJ/JdeJ/issues/new") or [**email**]("mailto:jorgedjuana@gmail.com") me.<br>
-👩‍💻<i>Happy Coding!</i>👨‍💻
+	<br><p text-align="center">🎉Congratulations 🎉</p><br> 
+Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer. <br>
+👩‍💻<i>Happy Coding!</i>👨‍💻<br clear="right"/><br clear="left"/>
 </div>
 <hr>
 
