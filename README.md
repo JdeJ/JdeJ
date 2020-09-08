@@ -1,6 +1,9 @@
 <div align="center">
 	<h2> 🖖 Hi, I'm Jorge de Juana! 👋</h2>
 </div>
+[![Linkedin: jorgedejuana](https://img.shields.io/badge/-jorgedejuana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedejuana/)](https://www.linkedin.com/in/jorgedejuana/)
+![GitHub followers](https://img.shields.io/github/followers/JdeJ?label=Follow&style=social)
+[![](https://img.shields.io/badge/mail-jorgedjuana%40gmail.com-red)](mailto:jorgedjuana@gmail.com)
 <img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!" width="50%" align="left"/>
 <div align="right">
 	<div align="center">
