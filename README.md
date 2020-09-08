@@ -3,7 +3,7 @@
 </div>
 <div style="width: 100%; margin:0; padding: 0">
 <div style="float:left; margin:0; padding: 0; box-sizing: border-box; width: 50%; text-align: center;">
-<img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!"/>
+<img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!" width="50%"/>
 </div>
 <div style="float:left; margin:0; padding: 0px 5px; box-sizing: border-box; width: 50%; text-align: center;" >
 🎉Congratulations 🎉<br><br> 
