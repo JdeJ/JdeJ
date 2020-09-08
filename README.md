@@ -11,43 +11,28 @@ Now that you have reached my Github profile, feel free to clone/fork projects, a
 
 
 ### TL;DR About me
-
 ```js
-export class Info {
-	name: string = 'Jorge de Juana';
-	languages: Record<string, string>[] = [
-		{ Spanish: 'native' },
-		{ English: 'B1' },
-		{ Catalan: 'B1' }
-	];
-	occupation: string = 'Web Developer';
-}
-
-export class Programming {
-	languages: string[] = ['TypeScript', 'JavaScript', 'Java'];
-	stylesheets: string[] = [
-		'CSS',
-		'SASS',
-		'SCSS',
-		'Styled Components',
-		'CSS Modules'
-	];
-	frameworks: string[] = ['React', 'Mobx', 'Express'];
-	runtimes: string[] = ['Node'];
-	databases: string[] = ['MongoDB'];
-	learning: string[] = ['React Native'];
-	projects: string[] = [
-		"Anjana's Fury",
-		'Ekilikua',
-		'UOP - Unpopular Opinion',
-		'WebStorageManager',
-		'useSocket React Hook'
-	];
-}
-
-export class Social {
-	website: string = 'https://jdej.github.io/';
-	github: string = 'https://github.com/JdeJ';
-	linkedIn: string = 'https://www.linkedin.com/in/jorgedejuana';
+export class JdeJ {
+  name: string = 'Jorge de Juana';
+  code: string[] = ['JavaScript', 'TypeScript', 'Java', 'html', 'css'];
+  technologies: Record<string , Record<string , string[]>> = {
+    frontEnd: {
+      js: ['React'],
+      css: ['bootstrap', 'sass', 'scss', 'styled-components', 'css-modules']
+    },
+    backEnd: {
+        js: ['node', 'express']
+    },
+    databases: ['MongoDB'],
+    misc: ['firebase', 'heroku', 'vercel', 'netlify']
+  };
+  projects: Record<string, string>[] = [
+    {`Anjana's Fury`, 'Vanilla Javascript'},
+    {'Ekilikua', 'Node, Express, MongoDB'},
+    {'UOP - Unpopular Opinion', 'React, Node, Express, MongoDB'},
+    {'WebStorageManager', 'Typescript'},
+    {'useSocket React Hook', 'React, Typescript'}
+  ];
+  occupation: string|undefined = 'Frontend Developer';
 }
 ```
