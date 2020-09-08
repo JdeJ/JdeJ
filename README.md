@@ -1,16 +1,16 @@
 <div align="center">
-	<h2> 🖖 Hi, I'm Jorge de Juana! 👋</h2>
-	<hr>
+<h2> 🖖 Hi, I'm Jorge de Juana! 👋</h2>
 </div>
 <div style="width: 100%; margin:0; padding: 0">
-	<div style="float:left; margin:0; padding: 0; box-sizing: border-box; width: 50%; text-align: center;">
-		<img src="./gifs/bigMario.gif" alt="Welcome Mario message!"/>
-	</div>
-	<div style="float:left; margin:0; padding: 0px 5px; box-sizing: border-box; width: 50%; text-align: center;" >
-		🎉Congratulations 🎉<br><br> Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer. <br>
-		Ask me anything <a href="https://github.com/JdeJ/JdeJ/issues/new"><b>here</b></a> or <a href="mailto:jorgedjuana@gmail.com"><b>email</b></a> me.<br><br>
-		👩‍💻<i>Happy Coding!</i>👨‍💻
-	</div>
+<div style="float:left; margin:0; padding: 0; box-sizing: border-box; width: 50%; text-align: center;">
+<img src="https://github.com/JdeJ/JdeJ/blob/master/gifs/bigMario.gif" alt="Welcome Mario message!"/>
+</div>
+<div style="float:left; margin:0; padding: 0px 5px; box-sizing: border-box; width: 50%; text-align: center;" >
+🎉Congratulations 🎉<br><br> 
+Now that you have reached my Github profile, feel free to clone/fork projects, and please raise issues and submit PRs to help me be better developer.<br>
+Ask me anything <a href="https://github.com/JdeJ/JdeJ/issues/new"><b>here</b></a> or <a href="mailto:jorgedjuana@gmail.com"><b>email</b></a> me.<br><br>
+👩‍💻<i>Happy Coding!</i>👨‍💻
+</div>
 </div>
 <div style="clear: both;">
 <hr>
