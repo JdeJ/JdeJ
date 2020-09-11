@@ -15,8 +15,8 @@
 	</div>
 </div>
 
-[![Linkedin: jorgedejuana](https://img.shields.io/badge/-JdeJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedejuana/)](https://www.linkedin.com/in/jorgedejuana/)
-![GitHub followers](https://img.shields.io/github/followers/JdeJ?label=Follow&style=social)
+[![Linkedin: jorgedejuana](https://img.shields.io/badge/-JorgedeJuana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgedejuana/)](https://www.linkedin.com/in/jorgedejuana/)
+![GitHub followers](https://img.shields.io/github/followers/JdeJ?label=JdeJ&style=social)
 [![](https://img.shields.io/badge/email-jorgedjuana%40gmail.com-red)](mailto:jorgedjuana@gmail.com)
 
 <br clear="left"/>
